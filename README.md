@@ -1,4 +1,5 @@
 # Python-Assignment-OOP
+## Contains assignments that involves implementing OOP concepts in Python.
 
 The object of this project is to design and implement a basic Kitty application.
 * The first part of the project is to decide the main objects in the application.
